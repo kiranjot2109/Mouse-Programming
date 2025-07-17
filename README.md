@@ -1,1 +1,1 @@
-# Mouse-Programming
+My project entitled “MOUSE PROGRAMMING” where Mouse can be used in text mode as well as in graphics mode. Hence we must first change the mouse to be in graphics mode. Initgraph () function is responsible for switching the mode from text to graphics. It has been prepared on TURBO C platform. In this project we create various different type of shapes of mouse like my name alphabet, heart, addition symbol etc.
